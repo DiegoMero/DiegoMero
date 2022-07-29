@@ -34,7 +34,7 @@ My name is Diego, and I am preparing to be a Full-Stack Developer.
 
 - 🌱 I’m currently learning JavaScript.
 
-- 💬 I play videogames in my free time.
+- 💬 I play video games in my free time.
 
 - 📫 How to reach me: diegomero_1999@hotmail.com
 
