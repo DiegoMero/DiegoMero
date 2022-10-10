@@ -9,7 +9,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 <h1 align="center">Hello There! I'm @DiegoMero</h1>
-<h3 align="center">Coding with responsibility 🤓</h3>
 
 ### My Statistics
 
