@@ -10,7 +10,7 @@
 
 My name is Diego, and I am a Full-Stack Developer.
 
-- 🌱 I’m currently learning Java.
+- 🔍 I'm currently looking for new opportunities.
 
 - 💬 I play video games in my free time.
 
